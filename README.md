@@ -1,2 +1,2 @@
 # analytikh
-Repository for Kautzar and Hanny data science project.
+Kautzar and Hanny data science project.
