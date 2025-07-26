@@ -1,2 +1,2 @@
 # analytikh
-Kautzar and Hanny data science project.
+Kautzar and Hanny data science and analytics projects.
